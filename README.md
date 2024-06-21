@@ -1,2 +1,2 @@
 # Information-page-HTML-CSS-
-getting student information form
+Getting Student Information Form in html
