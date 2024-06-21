@@ -14,4 +14,36 @@
 
          * Moreover, it must have the required feild . This field
            is very substantial while create the forms . 
-         
+
+ #### PREREQUISITES:
+           Ensure you have the following installed:
+
+                *Visual Studio Code
+
+ #### CODE EXPLANATION:
+           Here's the breif explanation of the main parts
+           of the code:
+            1.You must have to add the input type properly.
+            
+                 <label>Parent/Guardian Name</label><br>
+                 <input type="text" placeholder="First">
+                 <input type="text" placeholder="Last"> <br>
+
+            2.Coding for div elements
+
+                 <!doctype html>
+                 <head></head>
+                 <body>
+                 <div>
+                     <form>
+                        <label>name</label>
+                        <input type="text" placeholder="first">
+                      </form>    
+                 </div>   
+                 </body>
+                 </html>
+
+   
+              
+
+               
