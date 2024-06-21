@@ -23,13 +23,14 @@
  #### CODE EXPLANATION:
            Here's the breif explanation of the main parts
            of the code:
+           
             1.You must have to add the input type properly.
             
                  <label>Parent/Guardian Name</label><br>
                  <input type="text" placeholder="First">
                  <input type="text" placeholder="Last"> <br>
 
-            2.Coding for div elements
+            2.Coding for div elements.
 
                  <!doctype html>
                  <head></head>
@@ -38,7 +39,7 @@
                      <form>
                         <label>name</label>
                         <input type="text" placeholder="first">
-                      </form>    
+                     </form>    
                  </div>   
                  </body>
                  </html>
