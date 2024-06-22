@@ -33,7 +33,8 @@ and interests to better align tasks and foster effective collaboration .
 ```
 
  2.Coding for div elements.
-       ```
+ 
+ ```
                  <!doctype html>
                  <head></head>
                  <body>
@@ -44,7 +45,7 @@ and interests to better align tasks and foster effective collaboration .
                      </form>    
                  </div>   
                  </body>
-                            ```
+ ```
 
    
               
